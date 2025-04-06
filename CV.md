@@ -1,17 +1,13 @@
 # Christian Sturm
 
-![Profile Picture]()
+![Profile Picture](./Christian-Sturm-150x180.jpg)
 
 **Birthday:** 26.08.1996  
 **Address:** George Stephenson Straße, 10557 Berlin
 
----
-
 ## 🧑‍💻 Profile
 
 Passionate and dedicated software engineering student with hands-on experience in Android app development, web technologies, QA testing, and teaching assistance. Strong communicator, proactive team player, and always eager to learn and contribute to meaningful projects. Thrives in both fast-paced startup environments as well as structured development workflows.
-
----
 
 ## 💼 Work Experience
 
@@ -23,8 +19,6 @@ Passionate and dedicated software engineering student with hands-on experience i
 - Working in an agile SCRUM team to build high-quality user-facing features.
 - Focused on performance, usability, and code maintainability.  
 **Skills:** Kotlin, Java, Jetpack Compose, Native App Development, SCRUM
-
----
 
 ### Web Development Teaching Assistant  
 **CODE University of Applied Sciences** · Work Study  
@@ -43,7 +37,7 @@ Passionate and dedicated software engineering student with hands-on experience i
 
 - Assisted an elderly client with domestic tasks like cleaning, shopping, and plant care.
 - Offered companionship and reliability.  
-**Skills:** Haushalt, Seniorendienstleistungen, Putzarbeiten
+**Skills:** Household, Support for Senior Citizen, Cleaning Tasks
 
 ---
 
@@ -70,8 +64,8 @@ Passionate and dedicated software engineering student with hands-on experience i
 **REWE Group**  
 **Mar 2016 – Aug 2019** · Dachau, Bavaria, Germany
 
-- **Retail Sales Clerk (Apprenticeship)**: Aug 2016 – Feb 2018  
-- **Retail Salesperson**: Feb 2018 – Aug 2019  
+- **Retail Salesperson**: Feb 2018 – Aug 2019
+- **Retail Sales Clerk (Apprenticeship)**: Aug 2016 – Feb 2018
 - **Salesworker (Part-time)**: Mar 2016 – Jul 2016
 
 Key contributions across all roles:
@@ -80,8 +74,6 @@ Key contributions across all roles:
 - Efficient in stock handling and resource planning.
 - Strengthened teamwork and stress management under daily challenges.  
 **Skills:** Customer Service, Communication, Teamwork, Stress Management, Resource Planning
-
----
 
 ## 🎓 Education
 
@@ -93,14 +85,10 @@ Key contributions across all roles:
 **Einzelhandelskaufmann, Retail Management**  
 **Aug 2016 – Feb 2018**
 
----
-
 ## 🌐 Languages
 
 - **German** – Native speaker  
 - **English** – C1
-
----
 
 ## 📫 Contact
 
