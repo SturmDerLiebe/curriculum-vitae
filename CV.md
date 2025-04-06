@@ -79,6 +79,7 @@ Key contributions across all roles:
 - Delivered excellent customer service in high-pressure environments.
 - Efficient in stock handling and resource planning.
 - Strengthened teamwork and stress management under daily challenges.  
+
 **Skills:** Customer Service, Communication, Teamwork, Stress Management, Resource Planning
 
 ## 🎓 Education
