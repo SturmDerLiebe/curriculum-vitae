@@ -18,7 +18,10 @@ Passionate and dedicated software engineering student with hands-on experience i
 - Developing native Android apps using Kotlin, Java, and Jetpack Compose.
 - Working in an agile SCRUM team to build high-quality user-facing features.
 - Focused on performance, usability, and code maintainability.  
+
 **Skills:** Kotlin, Java, Jetpack Compose, Native App Development, SCRUM
+
+---
 
 ### Web Development Teaching Assistant  
 **CODE University of Applied Sciences** · Work Study  
@@ -27,6 +30,7 @@ Passionate and dedicated software engineering student with hands-on experience i
 - Supported students with office hours and personalized mentoring.
 - Reviewed and graded final project submissions.
 - Helped guide students through their web development journey.  
+
 **Skills:** Communication, Feedback, Teaching, Web Development
 
 ---
@@ -37,6 +41,7 @@ Passionate and dedicated software engineering student with hands-on experience i
 
 - Assisted an elderly client with domestic tasks like cleaning, shopping, and plant care.
 - Offered companionship and reliability.  
+
 **Skills:** Household, Support for Senior Citizen, Cleaning Tasks
 
 ---
@@ -48,6 +53,7 @@ Passionate and dedicated software engineering student with hands-on experience i
 - Manual QA testing and feature verification in a pre-launch mobile app.
 - Supported development by identifying bugs and proposing fixes.
 - Advocated for automated test coverage.  
+
 **Skills:** Manual Testing, Priority Management, Startups, Team Collaboration
 
 ---
@@ -81,6 +87,8 @@ Key contributions across all roles:
 **Bachelor's Degree, Computer Software Engineering**  
 **Aug 2020 – Aug 2025**
 
+---
+
 ### IHK Academy Munich and Upper Bavaria  
 **Einzelhandelskaufmann, Retail Management**  
 **Aug 2016 – Feb 2018**
@@ -92,7 +100,6 @@ Key contributions across all roles:
 
 ## 📫 Contact
 
-- **Email:** [christian.sturm@code.berlin](mailto:christian.sturm@code.berlin)  
+- **Email:** [christian.sturm@code.berlin](mailto:christian.sturm@code.berlin)
 - **Mobile:** [+491719438762](tel:+491719438762)  
-- **Location:** Berlin, Germany  
 - **GitHub:** [github.com/SturmDerLiebe](https://github.com/SturmDerLiebe)
