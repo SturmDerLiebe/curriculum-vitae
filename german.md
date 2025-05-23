@@ -3,7 +3,7 @@
 ![Profilbild](./Christian-Sturm-150x180.jpg)
 
 **Geburtsdatum:** 26.08.1996  
-**Adresse:** George Stephenson Straße, 10557 Berlin
+**Ort:** 10557 Berlin
 
 ## 🧑‍💻 Profil
 
@@ -12,8 +12,9 @@ Engagierter und leidenschaftlicher Software Engineering-Student mit praktischer 
 ## 💼 Berufserfahrung
 
 ### Android App Entwickler  
-**AVM GmbH** · Werkstudent  
-**Mai 2024 – heute** · Berlin, Deutschland · Vor Ort
+**AVM GmbH**  · Berlin, Deutschland · Vor Ort  
+1. **Mai 2024 – Mai 2025** · Werkstudent
+2. **Mai 2025 - heute** · Teilzeit
 
 - Entwicklung nativer Android-Apps mit Kotlin, Java und Jetpack Compose.  
 - Mitarbeit in einem agilen SCRUM-Team zur Umsetzung nutzerzentrierter Funktionen.  
